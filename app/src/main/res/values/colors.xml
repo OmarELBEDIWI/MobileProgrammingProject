@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E2A78</color> <!-- Deep Navy Blue -->
+    <color name="accent">#F97316</color>  <!-- Vivid Orange -->
+    <color name="background">#F4F4F5</color> <!-- Light Gray -->
+    <color name="textPrimary">#1F2937</color> <!-- Dark Gray -->
+    <color name="buttonText">#FFFFFF</color>
+</resources>
+
